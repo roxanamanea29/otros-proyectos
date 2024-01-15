@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.mycompany.clasabstract","l":"Abstraccion"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.clasabstract","l":"Figura"}];updateSearchResults();
