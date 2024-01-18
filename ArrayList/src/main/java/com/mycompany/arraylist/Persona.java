@@ -3,22 +3,22 @@ package com.mycompany.arraylist;
 
 
 public class Persona {
-    //atributos
+ //atributos
     private int num;
     private String nombre;
     private int edad;
     
-    //constructor vacio
+//constructor vacio
     public Persona(){
     }
-    //constructor
+//constructor
 
     public Persona(int num, String nombre, int edad) {
         this.num = num;
         this.nombre = nombre;
         this.edad = edad;
     }
-
+ //metodos
     public int getNum() {
         return num;
     }
